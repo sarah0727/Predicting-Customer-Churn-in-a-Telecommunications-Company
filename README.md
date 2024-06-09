@@ -6,11 +6,11 @@ customers at risk of churning, enabling the company to take proactive measures t
 them.
 Tasks:
 Data Collection and Preprocessing:
-You can use this dataset for the assignment: https://www.kaggle.com/datasets/blastchar/telcocustomer-churn
-Preprocess the data to handle missing values, encode categorical variables, and prepare it for
+Dataset for the assignment: https://www.kaggle.com/datasets/blastchar/telcocustomer-churn
+Preprocessing the data to handle missing values, encode categorical variables, and prepare it for
 analysis.
 Exploratory Data Analysis (EDA):
-Perform EDA on the dataset to understand customer behavior and factors influencing churn.
+Performing EDA on the dataset to understand customer behavior and factors influencing churn.
 Visualize key findings using appropriate graphs and charts.
 Feature Engineering:
 Create relevant features that can help in predicting churn.
